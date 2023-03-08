@@ -1,5 +1,2 @@
-# react
-# react
-# react-project
-# react-project
-# react-project
+# Sample react project setup
+
